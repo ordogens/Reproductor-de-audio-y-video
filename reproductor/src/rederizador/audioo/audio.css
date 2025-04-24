@@ -1,0 +1,17 @@
+.Audio{
+    display: flex;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(252, 11, 51);
+    overflow-y:auto;
+    
+}
+
+.aud{
+    padding-left: 1rem;
+}
+
+audio{
+   width: 20rem;
+   
+}
