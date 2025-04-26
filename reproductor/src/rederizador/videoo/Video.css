@@ -81,9 +81,9 @@ h2{
 }
 
 .Video::-webkit-scrollbar-thumb{
-    background-color: #33333363;
+    background-color: #fc0b33cc;
     border-radius: 10px;
 }
 .Video::-webkit-scrollbar-thumb:hover{
-    background-color: #555;
+    background-color: #d60326;
 }
