@@ -6,6 +6,8 @@ import vid3 from "../../../public/video/VID3.mp4";
 export const Video = () => {
   return (
     <div className="Video">
+      <input  className="imput" type="text" placeholder="🔎"/>
+      <button className="btn">Search</button>
       <span className="spann">
         <span className="span1">
           <h2>Examen</h2>
